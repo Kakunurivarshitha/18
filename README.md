@@ -1,2 +1,12 @@
-# 18
-html-18
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>box model example</title>
+    <link rel="stylesheet" href="box_style.css"
+</head>
+<body>
+    <div class ="box">box sample</div>
+</body>
+</html>
